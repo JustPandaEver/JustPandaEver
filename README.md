@@ -18,14 +18,6 @@
 
 <hr/>
 <hr/>
-<div align="center">
- 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JustPandaEver/JustPandaEver/output/github-contribution-grid-snake.svg" />
-  <br>
-  
-  <br/><br/><br/>
-</div>
-
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
