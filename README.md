@@ -1,6 +1,3 @@
-![logo](https://github.com/PrastianHD/NodeInter/blob/main/NodeInter.png)
-
-
 <h1 align="center">JustPandaEver</h1>
 <h3 align="center">Programmer</h3>
 <hr/>
