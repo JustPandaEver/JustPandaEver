@@ -24,7 +24,7 @@ async def connect_to_wss():
             uri = "wss://proxy.wynd.network:4650/"
             server_hostname = "proxy.wynd.network"
             async with websockets.connect(uri, ssl=ssl_context, extra_headers=custom_headers,
-                                          server_hostname=server_hostname, timeout=30) as websocket:
+                                          server_hostname=server_hostname) as websocket:
                 async def send_ping():
                     while True:
                         send_message = json.dumps(
