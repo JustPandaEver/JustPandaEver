@@ -46,7 +46,7 @@ async def connect_to_wss():
                         "origin_action": "AUTH",
                         "result": {
                             "browser_id": device_id,
-                            "user_id": "d2e0571b-435c-4ac2-a8e6-5f1563bfb491",
+                            "user_id": "your user id",
                             "user_agent": custom_headers['User-Agent'],
                             "timestamp": int(time.time()),
                             "device_type": "extension",
