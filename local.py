@@ -12,8 +12,8 @@ from loguru import logger
 user_agent = UserAgent()
 random_user_agent = user_agent.random
 
-async def connect_to_wss(user_id):
-    device_id = str(uuid.uuid3(uuid.NAMESPACE_DNS))
+async def connect_to_wss():
+    device_id = str(uuid.uuid4())
     while True:
         try:
             await asyncio.sleep(random.randint(1, 10) / 10)
@@ -65,11 +65,8 @@ async def connect_to_wss(user_id):
 
 
 async def main():
-    # TODO 修改user_id
-    _user_id = ''
-    await connect_to_wss(_user_id)
+    await connect_to_wss()
 
 
 if __name__ == '__main__':
-    # # 运行主函数
     asyncio.run(main())
