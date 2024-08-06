@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=JustPandaEver&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🔭 I’m currently working on [The Key Project]
+- 🔭 I’m currently working on **The Key Project**
 
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
