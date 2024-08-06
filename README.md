@@ -28,15 +28,16 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-    <table>
+    <table border="0">
         <tr>
             <td><img width="320" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=JustPandaEver&count_private=true&theme=react&border_radius=10" alt="streak stats"/></td>
-            <td><img width="320" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=JustPandaEver&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.4&count_weight=10&exclude_repo=github-readme-stats" alt="top langs"/></td>
+            <td><img width="320" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=JustPandaEver&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.4&count_weight=10&exclude_repo=github-readme-stats" alt="streak stats"/></td>
         </tr>
     </table>
 </div>
 <br/>
 <hr/>
+
 
 
 <h3 align="left">Connect with me:</h3>
