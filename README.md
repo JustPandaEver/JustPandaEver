@@ -22,7 +22,6 @@
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Php"/>
 </p>
-
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
