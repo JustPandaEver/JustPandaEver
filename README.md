@@ -6,7 +6,7 @@
 <br/>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:700/format:webp/1*mUahTQdRR4e4MJLLtJkjbw.gif">
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=JustPandaEver&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=JustPandaEver&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 - 🔭 **Jobless.**
 
