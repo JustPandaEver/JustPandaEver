@@ -11,7 +11,6 @@
 - 🔭 **Jobless.**
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-
 <p align="center">
     <img src="https://img.shields.io/badge/Solidity-%23339933.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
