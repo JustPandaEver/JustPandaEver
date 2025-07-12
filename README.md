@@ -38,7 +38,7 @@
 <a href="https://twitter.com/PandaEver1">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"/>
 </a>
-    <a href="https://t.me/PandaEverX">
+<a href="https://t.me/PandaEverX">
         <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
 </p>
