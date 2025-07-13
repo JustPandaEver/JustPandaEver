@@ -40,5 +40,5 @@
 </a>
 <a href="https://t.me/PandaEverX">
 <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
+ </a>
 </p>
