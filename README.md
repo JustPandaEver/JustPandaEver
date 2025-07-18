@@ -8,7 +8,7 @@
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=JustPandaEver&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-- 🔭 **Jobless.**
+- 🔭 Jobless.
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <p align="center">
