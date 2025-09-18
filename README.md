@@ -35,7 +35,7 @@
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/PandaEver1">
+<a href="https://twitter.com/PandaEverX">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"/>
 </a>
 <a href="https://t.me/PandaEverX">
